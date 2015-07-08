@@ -1,0 +1,144 @@
+/* app css stylesheet */
+
+h1 { 
+    padding-bottom: 0.5em;
+    margin: 0;
+}
+
+
+
+#arrowGlyphicon {
+    padding-left: 3em;
+    font-size: 1.3em;
+}
+
+
+.inputLabel {
+    padding: 0.8em 0;
+}
+
+.inputText {
+    padding-bottom: 0.8em;
+}
+
+
+
+#selectedStopsThumbnail {
+    margin: 6em 1em 0.5em 1em;
+    border: 3px #C23B22 solid;
+}
+
+
+
+#searchButton {
+    padding: 0.5em 2em;
+    color: white;
+    background-color: #C23B22;
+    border: 2px solid white;
+}
+
+#searchButton:hover,
+#searchButton:focus {
+    color: white;
+    background-color: #C23B22;
+}
+
+
+
+#headerContainer {
+    padding: 1em;
+}
+
+#resultsContainer {
+    padding: 1em;
+}
+
+#resultButton {
+    width: 100%;
+    text-align: left;
+    margin-bottom: 1em;
+    background-color: white;
+    border: 2px solid white;
+}
+
+#resultButton:active {
+    border-color: #C23B22;
+}
+
+#resultButton:hover,
+#resultButton:focus {
+    color: white;
+    background-color: #C23B22;
+}
+
+
+
+
+
+#thumbnailText {
+    padding: 0 0.8em;
+}
+
+
+
+#resultText {
+    padding: 0 0.8em 0 2em;
+}
+
+
+
+
+
+
+
+
+
+
+
+header {
+    z-index: 1;
+    position: fixed;
+    float: left;
+    width: 25%%;
+    background-color: #E2725B;
+}
+
+#resultContainer {
+    z-index: 0;
+    position: absolute;
+    margin-top: 18em;
+    width: 25%;
+}
+
+
+
+.googleMapContainer {
+    position: absolute;
+    left: 300px;
+    height: 1000px;
+    width: 1000px;
+}
+
+
+
+
+
+#mapContainer {
+    z-index: 2;
+    position: fixed;
+    left: 25%;
+    width: 75%;
+    height: 100%;
+    box-shadow: -0.1em 0 0.2em #acacac;
+}
+
+map {
+    position: relative;
+    height: 100%;
+}
+
+
+
+html {
+    background-color: #E2725B;
+}

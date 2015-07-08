@@ -1,0 +1,18 @@
+{
+  "name": "buyt-saigon",
+  "description": "Tìm tuyến xe Buýt ở Sài Gòn",
+  "version": "0.0.0",
+  "homepage": "",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.4.1",
+    "angular-mocks": "^1.4.1",
+    "jquery": "^2.1.1",
+    "bootstrap": "^3.1.1",
+    "angular-route": "^1.4.1",
+    "angularfire": "^1.1.2",
+    "angucomplete-alt": "^1.0.4",
+    "ngmap": "^1.7.11"
+  }
+}

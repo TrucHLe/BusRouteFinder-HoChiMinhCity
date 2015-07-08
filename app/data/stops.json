@@ -1,0 +1,1731 @@
+[ {
+  "address" : "Cây Xăng Hiệp Phú",
+  "bus" : [ "12", "60-3", "60-4", "150Leave" ],
+  "district" : "Quận 9",
+  "id" : "BD003",
+  "latitude" : "10.8934987582221",
+  "longitude" : "106.82373225689",
+  "name" : "Cây Xăng Hiệp Phú",
+  "street" : "Quốc Lộ 1A",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "Ngã 3 Tân Vạn",
+  "bus" : [ "12", "60-3", "60-4", "150Leave" ],
+  "district" : "Quận 9",
+  "id" : "BD004",
+  "latitude" : "10.8967805496839",
+  "longitude" : "106.827221810817",
+  "name" : "Ngã 3 Tân Vạn",
+  "street" : "Quốc Lộ 1A",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "Công ty TNHH Thuận Thành Tâm",
+  "bus" : [ "12", "60-3", "60-4", "150Return" ],
+  "district" : "Quận 9",
+  "id" : "BD005",
+  "latitude" : "10.8936567907429",
+  "longitude" : "106.823596805334",
+  "name" : "Công ty TNHH Thuận Thành Tâm",
+  "street" : "Quốc Lộ 1A",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "Công Ty TNHH Châu Sáng",
+  "bus" : [ "12", "60-3", "60-4", "150Return" ],
+  "district" : "Quận 9",
+  "id" : "BD006",
+  "latitude" : "10.8877410495226",
+  "longitude" : "106.819255650043",
+  "name" : "Đền Hùng",
+  "street" : "Quốc Lộ 1A",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "Công Ty CP Đức Khải",
+  "bus" : [ "12", "60-3", "60-4", "150Return" ],
+  "district" : "Quận 9",
+  "id" : "BD007",
+  "latitude" : "10.8791800053997",
+  "longitude" : "106.812986657024",
+  "name" : "Công Ty CP Đức Khải",
+  "street" : "Quốc Lộ 1A",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "Kho 190C - 19/11 Hiệp Thắng",
+  "bus" : [ "12", "60-3", "60-4", "150Leave" ],
+  "district" : "Quận 9",
+  "id" : "BDT01",
+  "latitude" : "10.8876593977753",
+  "longitude" : "106.819372326136",
+  "name" : "Đền Hùng",
+  "street" : "Quốc Lộ 1A",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "Ga HKXB Chợ Lớn",
+  "bus" : [ "1", "7", "9", "10", "17", "23", "47", "54Leave", "54Return", "56", "61", "62-2", "62-7", "62-8", "62-10", "80", "81", "82", "92", "94", "150Leave", "150Return" ],
+  "district" : "Quận 5",
+  "id" : "BX14",
+  "latitude" : "10.7512529880741",
+  "longitude" : "106.65256208879",
+  "name" : "Bến Xe Chợ Lớn",
+  "street" : "Lê Quang Sung",
+  "type" : "Bến xe buýt"
+}, {
+  "address" : "Bến Xe Miền Đông",
+  "bus" : [ "14", "24", "26", "40", "43", "45", "51", "54Leave", "54Return", "60-3", "60-4", "64", "95", "146" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "BX44",
+  "latitude" : "10.8147381056905",
+  "longitude" : "106.711321715624",
+  "name" : "Bến Xe Miền Đông",
+  "street" : "Đinh Bộ Lĩnh",
+  "type" : "Bến xe buýt"
+}, {
+  "address" : "Ngã 3 Tân Vạn",
+  "bus" : [ "150Leave", "150Return" ],
+  "district" : "Quận 9",
+  "id" : "BX86",
+  "latitude" : "10.8980421573062",
+  "longitude" : "106.82798707894",
+  "name" : "Tân Vạn",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Bến xe buýt"
+}, {
+  "address" : "54",
+  "bus" : [ "7", "10", "54Leave" ],
+  "district" : "Quận 10",
+  "id" : "Q10T001",
+  "latitude" : "10.7768980208348",
+  "longitude" : "106.680726643266",
+  "name" : "Maximark",
+  "street" : "Đường 3/2",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "172",
+  "bus" : [ "7", "54Leave" ],
+  "district" : "Quận 10",
+  "id" : "Q10T002",
+  "latitude" : "10.7747769159221",
+  "longitude" : "106.679114635645",
+  "name" : "Bệnh Viện Bình Dân",
+  "street" : "Đường 3/2",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "10",
+  "bus" : [ "2", "7", "10", "54Leave", "91" ],
+  "district" : "Quận 10",
+  "id" : "Q10T003",
+  "latitude" : "10.7733566903051",
+  "longitude" : "106.676722105203",
+  "name" : "Học Viện Hành Chính Quốc Gia",
+  "street" : "Đường 3/2",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "Kế 10A",
+  "bus" : [ "2", "7", "54Leave" ],
+  "district" : "Quận 10",
+  "id" : "Q10T004",
+  "latitude" : "10.7726426237812",
+  "longitude" : "106.675721641244",
+  "name" : "Học Viện Hành Chính Quốc Gia",
+  "street" : "Đường 3/2",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "240",
+  "bus" : [ "2", "54Leave" ],
+  "district" : "Quận 10",
+  "id" : "Q10T005",
+  "latitude" : "10.771712487532",
+  "longitude" : "106.674203510938",
+  "name" : "Nhà Hát Hòa Bình",
+  "street" : "Đường 3/2",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "667-669",
+  "bus" : [ "54Leave" ],
+  "district" : "Quận 10",
+  "id" : "Q10T022",
+  "latitude" : "10.7700451277238",
+  "longitude" : "106.673392519241",
+  "name" : "Công An Phường 10, Quận 10",
+  "street" : "Lê Hồng Phong",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "553-555",
+  "bus" : [ "54Leave" ],
+  "district" : "Quận 10",
+  "id" : "Q10T023",
+  "latitude" : "10.7686164082664",
+  "longitude" : "106.673946018873",
+  "name" : "Trạm Ngã 7 Lý Thái Tổ",
+  "street" : "Lê Hồng Phong",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "505",
+  "bus" : [ "54Leave" ],
+  "district" : "Quận 10",
+  "id" : "Q10T024",
+  "latitude" : "10.7668509713046",
+  "longitude" : "106.674654122056",
+  "name" : "Cây Xăng Dầu",
+  "street" : "Lê Hồng Phong",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "419",
+  "bus" : [ "5", "54Leave" ],
+  "district" : "Quận 10",
+  "id" : "Q10T025",
+  "latitude" : "10.7648220209223",
+  "longitude" : "106.675343449769",
+  "name" : "Chợ Lê Hồng Phong",
+  "street" : "Lê Hồng Phong",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "400",
+  "bus" : [ "5", "54Return" ],
+  "district" : "Quận 10",
+  "id" : "Q10T026",
+  "latitude" : "10.7641316468821",
+  "longitude" : "106.675751145536",
+  "name" : "Chợ Lê Hồng Phong",
+  "street" : "Lê Hồng Phong",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "346",
+  "bus" : [ "54Return" ],
+  "district" : "Quận 10",
+  "id" : "Q10T027",
+  "latitude" : "10.7630671006168",
+  "longitude" : "106.676142748056",
+  "name" : "Nhà Thờ PhaoLô",
+  "street" : "Lê Hồng Phong",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "516",
+  "bus" : [ "54Return" ],
+  "district" : "Quận 10",
+  "id" : "Q10T028",
+  "latitude" : "10.7660947257973",
+  "longitude" : "106.675048406775",
+  "name" : "Ngã 7 Lý Thái Tổ",
+  "street" : "Lê Hồng Phong",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "417",
+  "bus" : [ "5", "150Leave" ],
+  "district" : "Quận 10",
+  "id" : "Q10T029",
+  "latitude" : "10.7606191565862",
+  "longitude" : "106.669493551914",
+  "name" : "Trường Khiếm Thị Nguyễn Đình Chiểu",
+  "street" : "Ngô Gia Tự",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "277",
+  "bus" : [ "5", "150Leave" ],
+  "district" : "Quận 10",
+  "id" : "Q10T030",
+  "latitude" : "10.7629116354167",
+  "longitude" : "106.671121652783",
+  "name" : "Hòa Hảo",
+  "street" : "Ngô Gia Tự",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "105",
+  "bus" : [ "150Leave" ],
+  "district" : "Quận 10",
+  "id" : "Q10T031",
+  "latitude" : "10.7653411182178",
+  "longitude" : "106.672862406434",
+  "name" : "Đài Tưởng Niệm",
+  "street" : "Ngô Gia Tự",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "66",
+  "bus" : [ "150Return" ],
+  "district" : "Quận 10",
+  "id" : "Q10T032",
+  "latitude" : "10.7665584872661",
+  "longitude" : "106.673557098569",
+  "name" : "Ngô Gia Tự",
+  "street" : "Ngô Gia Tự",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "222",
+  "bus" : [ "5", "150Return" ],
+  "district" : "Quận 10",
+  "id" : "Q10T033",
+  "latitude" : "10.7633200627326",
+  "longitude" : "106.671255763231",
+  "name" : "Hòa Hảo",
+  "street" : "Ngô Gia Tự",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "462",
+  "bus" : [ "5", "150Return" ],
+  "district" : "Quận 10",
+  "id" : "Q10T034",
+  "latitude" : "10.7608563105019",
+  "longitude" : "106.669523056213",
+  "name" : "Hòa Hảo",
+  "street" : "Ngô Gia Tự",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "126",
+  "bus" : [ "54Leave" ],
+  "district" : "Quận 10",
+  "id" : "Q10T108",
+  "latitude" : "10.7617523861902",
+  "longitude" : "106.675618019851",
+  "name" : "Trần Nhân Tông",
+  "street" : "Hùng Vương",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "179 - 181",
+  "bus" : [ "54Return", "91", "93", "150Leave" ],
+  "district" : "Quận 1",
+  "id" : "Q1T008",
+  "latitude" : "10.7869341876049",
+  "longitude" : "106.69431114603",
+  "name" : "Công Viên Lê Văn Tám",
+  "street" : "Điện Biên Phủ",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "87",
+  "bus" : [ "54Return", "93", "150Leave" ],
+  "district" : "Quận 1",
+  "id" : "Q1T009",
+  "latitude" : "10.7895419837131",
+  "longitude" : "106.69692361761",
+  "name" : "Đinh Tiên Hoàng",
+  "street" : "Điện Biên Phủ",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "18",
+  "bus" : [ "10", "18", "31", "36", "54Leave", "91" ],
+  "district" : "Quận 1",
+  "id" : "Q1T072",
+  "latitude" : "10.7912888501689",
+  "longitude" : "106.695248578091",
+  "name" : "Đền Trần Hưng Đạo",
+  "street" : "Võ Thị Sáu",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "78",
+  "bus" : [ "18", "31", "36", "54Leave" ],
+  "district" : "Quận 1",
+  "id" : "Q1T073",
+  "latitude" : "10.7888951465504",
+  "longitude" : "106.692815143962",
+  "name" : "Công Viên Lê Văn Tám",
+  "street" : "Võ Thị Sáu",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "75",
+  "bus" : [ "45", "50", "93", "150Return" ],
+  "district" : "Quận 1",
+  "id" : "Q1T087",
+  "latitude" : "10.7912157327102",
+  "longitude" : "106.700570080772",
+  "name" : "Nguyễn Văn Thủ",
+  "street" : "Nguyễn Bỉnh Khiêm",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "52-54",
+  "bus" : [ "93", "150Return" ],
+  "district" : "Quận 1",
+  "id" : "Q1T115",
+  "latitude" : "10.7888496975035",
+  "longitude" : "106.699736630955",
+  "name" : "UBND Phường Dakao",
+  "street" : "Nguyễn Đình Chiểu",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "102",
+  "bus" : [ "93", "150Return" ],
+  "district" : "Quận 1",
+  "id" : "Q1T116",
+  "latitude" : "10.7868479034557",
+  "longitude" : "106.697863119615",
+  "name" : "Mạc Đỉnh Chi",
+  "street" : "Nguyễn Đình Chiểu",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "116-118",
+  "bus" : [ "93", "150Return" ],
+  "district" : "Quận 1",
+  "id" : "Q1T117",
+  "latitude" : "10.7852926974582",
+  "longitude" : "106.696458289324",
+  "name" : "Hai Bà Trưng",
+  "street" : "Nguyễn Đình Chiểu",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "794",
+  "bus" : [ "6", "12", "30", "50", "52", "53", "55", "56", "60-3", "60-4", "104", "150Leave" ],
+  "district" : "Quận 2",
+  "id" : "Q2T076",
+  "latitude" : "10.7999782170628",
+  "longitude" : "106.734203185498",
+  "name" : "Cầu Đen",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "Đối diện Ngã 3 Thảo Điền",
+  "bus" : [ "6", "12", "30", "50", "52", "55", "56", "60-3", "60-4", "104", "150Leave" ],
+  "district" : "Quận 2",
+  "id" : "Q2T077",
+  "latitude" : "10.8008384453506",
+  "longitude" : "106.738899733485",
+  "name" : "Thảo Điền",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "170",
+  "bus" : [ "6", "12", "30", "50", "52", "55", "56", "60-3", "60-4", "104", "150Leave" ],
+  "district" : "Quận 2",
+  "id" : "Q2T078",
+  "latitude" : "10.8015847186217",
+  "longitude" : "106.742926399765",
+  "name" : "Metro Quận 2",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "Chung Cư Estella",
+  "bus" : [ "6", "12", "30", "50", "52", "55", "56", "60-3", "60-4", "104", "150Leave" ],
+  "district" : "Quận 2",
+  "id" : "Q2T079",
+  "latitude" : "10.8026326642834",
+  "longitude" : "106.74807422942",
+  "name" : "Cát Lái",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "655",
+  "bus" : [ "6", "12", "30", "50", "52", "55", "56", "60-4", "104", "150Return" ],
+  "district" : "Quận 2",
+  "id" : "Q2T080",
+  "latitude" : "10.8021788421003",
+  "longitude" : "106.743378351987",
+  "name" : "Metro Quận 2",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "Ngã 3 Thảo Điền",
+  "bus" : [ "6", "12", "30", "50", "52", "55", "56", "60-4", "104", "150Return" ],
+  "district" : "Quận 2",
+  "id" : "Q2T081",
+  "latitude" : "10.8013087351555",
+  "longitude" : "106.738765623031",
+  "name" : "Thảo Điền",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "Đối diện Cầu Đen",
+  "bus" : [ "6", "12", "30", "50", "52", "53", "55", "56", "60-4", "104", "150Return" ],
+  "district" : "Quận 2",
+  "id" : "Q2T082",
+  "latitude" : "10.8004511465302",
+  "longitude" : "106.734360094729",
+  "name" : "Cầu Đen",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "Đối diện Esstella",
+  "bus" : [ "6", "12", "30", "50", "52", "55", "56", "60-4", "104", "150Return" ],
+  "district" : "Quận 2",
+  "id" : "Q2T083",
+  "latitude" : "10.8029251147257",
+  "longitude" : "106.74795063248",
+  "name" : "Cát Lái",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "647",
+  "bus" : [ "54Return", "150Leave" ],
+  "district" : "Quận 3",
+  "id" : "Q3T020",
+  "latitude" : "10.7687824189544",
+  "longitude" : "106.675338060007",
+  "name" : "Ngã 7 Lý Thái Tổ",
+  "street" : "Điện Biên Phủ",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "503 (Trụ đèn TG 18)",
+  "bus" : [ "2", "54Return", "150Leave" ],
+  "district" : "Quận 3",
+  "id" : "Q3T021",
+  "latitude" : "10.7712487461594",
+  "longitude" : "106.677503943793",
+  "name" : "Cao Thắng",
+  "street" : "Điện Biên Phủ",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "399",
+  "bus" : [ "54Return", "150Leave" ],
+  "district" : "Quận 3",
+  "id" : "Q3T022",
+  "latitude" : "10.7732480078377",
+  "longitude" : "106.679811984647",
+  "name" : "Cư Xá Đô Thành",
+  "street" : "Điện Biên Phủ",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "371",
+  "bus" : [ "54Return", "150Leave" ],
+  "district" : "Quận 3",
+  "id" : "Q3T023",
+  "latitude" : "10.774640566082",
+  "longitude" : "106.681453496562",
+  "name" : "Bệnh Viện Bình Dân",
+  "street" : "Điện Biên Phủ",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "303",
+  "bus" : [ "10", "30", "54Return", "150Leave" ],
+  "district" : "Quận 3",
+  "id" : "Q3T024",
+  "latitude" : "10.7768861699068",
+  "longitude" : "106.684054568754",
+  "name" : "Cách Mạng Tháng Tám",
+  "street" : "Điện Biên Phủ",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "291",
+  "bus" : [ "30", "54Return", "91", "150Leave" ],
+  "district" : "Quận 3",
+  "id" : "Q3T025",
+  "latitude" : "10.7782549985176",
+  "longitude" : "106.685473457323",
+  "name" : "Bệnh Viện Mắt",
+  "street" : "Điện Biên Phủ",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "273",
+  "bus" : [ "30", "54Return", "150Leave" ],
+  "district" : "Quận 3",
+  "id" : "Q3T026",
+  "latitude" : "10.7802845159083",
+  "longitude" : "106.687576309191",
+  "name" : "Sở Khoa Học và Công Nghệ",
+  "street" : "Điện Biên Phủ",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "Đối diện số 206 (247)",
+  "bus" : [ "30", "54Return", "150Leave" ],
+  "district" : "Quận 3",
+  "id" : "Q3T027",
+  "latitude" : "10.7828719507904",
+  "longitude" : "106.690371170988",
+  "name" : "Trường Marie Curie",
+  "street" : "Điện Biên Phủ",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "209",
+  "bus" : [ "30", "54Return", "150Leave" ],
+  "district" : "Quận 3",
+  "id" : "Q3T028",
+  "latitude" : "10.7849646717963",
+  "longitude" : "106.692374110568",
+  "name" : "Phạm Ngọc Thạch",
+  "street" : "Điện Biên Phủ",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "170",
+  "bus" : [ "14", "27", "69", "150Return" ],
+  "district" : "Quận 3",
+  "id" : "Q3T039",
+  "latitude" : "10.7665295108911",
+  "longitude" : "106.678289160482",
+  "name" : "Nguyễn Đình Chiểu",
+  "street" : "Lý Thái Tổ",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "306",
+  "bus" : [ "14", "27", "69", "150Return" ],
+  "district" : "Quận 3",
+  "id" : "Q3T040",
+  "latitude" : "10.7673081502785",
+  "longitude" : "106.675826892606",
+  "name" : "Hồ Thị Kỷ",
+  "street" : "Lý Thái Tổ",
+  "type" : "Bảng treo"
+}, {
+  "address" : "138B",
+  "bus" : [ "31", "93", "150Return" ],
+  "district" : "Quận 3",
+  "id" : "Q3T059",
+  "latitude" : "10.7829806371258",
+  "longitude" : "106.694192648278",
+  "name" : "Đại Học Kinh tế",
+  "street" : "Nguyễn Đình Chiểu",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "170",
+  "bus" : [ "150Return", "152" ],
+  "district" : "Quận 3",
+  "id" : "Q3T060",
+  "latitude" : "10.7808279590753",
+  "longitude" : "106.692197755325",
+  "name" : "Co.op Mart Nguyễn Đình Chiểu",
+  "street" : "Nguyễn Đình Chiểu",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "216",
+  "bus" : [ "28", "150Return", "152" ],
+  "district" : "Quận 3",
+  "id" : "Q3T061",
+  "latitude" : "10.7782398503095",
+  "longitude" : "106.689788461082",
+  "name" : "Trương Định",
+  "street" : "Nguyễn Đình Chiểu",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "Đối diện 193",
+  "bus" : [ "69", "150Return" ],
+  "district" : "Quận 3",
+  "id" : "Q3T062",
+  "latitude" : "10.7746497883152",
+  "longitude" : "106.686396137223",
+  "name" : "Cách Mạng Tháng Tám",
+  "street" : "Nguyễn Đình Chiểu",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "448-450",
+  "bus" : [ "69", "150Return" ],
+  "district" : "Quận 3",
+  "id" : "Q3T063",
+  "latitude" : "10.7718534645292",
+  "longitude" : "106.683750138029",
+  "name" : "Chợ Vườn Chuối",
+  "street" : "Nguyễn Đình Chiểu",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "596-598",
+  "bus" : [ "69", "150Return" ],
+  "district" : "Quận 3",
+  "id" : "Q3T064",
+  "latitude" : "10.7697112467738",
+  "longitude" : "106.681733116854",
+  "name" : "Cao Thắng",
+  "street" : "Nguyễn Đình Chiểu",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "678-680",
+  "bus" : [ "69", "150Return" ],
+  "district" : "Quận 3",
+  "id" : "Q3T065",
+  "latitude" : "10.7682883634993",
+  "longitude" : "106.680355131975",
+  "name" : "Chợ Bàn Cờ",
+  "street" : "Nguyễn Đình Chiểu",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "766-768",
+  "bus" : [ "69", "150Return" ],
+  "district" : "Quận 3",
+  "id" : "Q3T066",
+  "latitude" : "10.7670901038969",
+  "longitude" : "106.679260790695",
+  "name" : "Lý Thái Tổ",
+  "street" : "Nguyễn Đình Chiểu",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "158A-156B",
+  "bus" : [ "54Leave" ],
+  "district" : "Quận 3",
+  "id" : "Q3T102",
+  "latitude" : "10.7869157868698",
+  "longitude" : "106.690921735165",
+  "name" : "Phạm Ngọc Thạch",
+  "street" : "Võ Thị Sáu",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "Đối diện 153 A-B",
+  "bus" : [ "4", "30", "54Leave", "152" ],
+  "district" : "Quận 3",
+  "id" : "Q3T103",
+  "latitude" : "10.7855838840222",
+  "longitude" : "106.689616169925",
+  "name" : "Viện Pasteur",
+  "street" : "Võ Thị Sáu",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "200",
+  "bus" : [ "28", "30", "54Leave" ],
+  "district" : "Quận 3",
+  "id" : "Q3T104",
+  "latitude" : "10.7835352985527",
+  "longitude" : "106.687559586159",
+  "name" : "Bảo Tàng Phụ Nữ",
+  "street" : "Võ Thị Sáu",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "228",
+  "bus" : [ "10", "30", "54Leave" ],
+  "district" : "Quận 3",
+  "id" : "Q3T105",
+  "latitude" : "10.7823766236563",
+  "longitude" : "106.686414953461",
+  "name" : "Trần Quốc Thảo",
+  "street" : "Võ Thị Sáu",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "274",
+  "bus" : [ "30", "54Leave", "91" ],
+  "district" : "Quận 3",
+  "id" : "Q3T106",
+  "latitude" : "10.7786245440636",
+  "longitude" : "106.682666883219",
+  "name" : "Dân Chủ",
+  "street" : "Võ Thị Sáu",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "Đối diện 215",
+  "bus" : [ "54Leave" ],
+  "district" : "Quận 5",
+  "id" : "Q5T019",
+  "latitude" : "10.7605121722507",
+  "longitude" : "106.673753508563",
+  "name" : "Công Viên Hòa Bình",
+  "street" : "Hùng Vương",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "90",
+  "bus" : [ "54Leave" ],
+  "district" : "Quận 5",
+  "id" : "Q5T020",
+  "latitude" : "10.7594337779601",
+  "longitude" : "106.672055011361",
+  "name" : "Bệnh Viện 30/4",
+  "street" : "Hùng Vương",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "100G",
+  "bus" : [ "54Leave" ],
+  "district" : "Quận 5",
+  "id" : "Q5T021",
+  "latitude" : "10.758107683664",
+  "longitude" : "106.670072188347",
+  "name" : "Nguyễn Tri Phương",
+  "street" : "Hùng Vương",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "116",
+  "bus" : [ "6", "11", "17", "50", "54Leave", "56", "68", "139" ],
+  "district" : "Quận 5",
+  "id" : "Q5T022",
+  "latitude" : "10.75730925746",
+  "longitude" : "106.668571480746",
+  "name" : "Công Viên Văn Lang",
+  "street" : "Hùng Vương",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "120",
+  "bus" : [ "6", "7", "11", "17", "50", "54Leave", "56", "68", "139", "150Return" ],
+  "district" : "Quận 5",
+  "id" : "Q5T023",
+  "latitude" : "10.7558823581855",
+  "longitude" : "106.664513969048",
+  "name" : "Bệnh Viện Phạm Ngọc Thạch",
+  "street" : "Hồng Bàng",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "132",
+  "bus" : [ "6", "7", "8", "10", "17", "54Leave", "56", "62", "68", "139", "150Return" ],
+  "district" : "Quận 5",
+  "id" : "Q5T024",
+  "latitude" : "10.755205141545",
+  "longitude" : "106.661078741512",
+  "name" : "Bệnh Viện Hùng Vương",
+  "street" : "Hồng Bàng",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "172",
+  "bus" : [ "6", "7", "8", "17", "54Leave", "56", "62", "68", "139", "150Return" ],
+  "district" : "Quận 5",
+  "id" : "Q5T025",
+  "latitude" : "10.7549264768373",
+  "longitude" : "106.659612914275",
+  "name" : "Bệnh Viện Chợ Rẫy",
+  "street" : "Hồng Bàng",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "Đối diện 385",
+  "bus" : [ "6", "17", "54Leave", "68", "139", "144", "150Return" ],
+  "district" : "Quận 5",
+  "id" : "Q5T026",
+  "latitude" : "10.7545048674829",
+  "longitude" : "106.65797474348",
+  "name" : "Thuận Kiều Plaza",
+  "street" : "Hồng Bàng",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "Đối diện 463",
+  "bus" : [ "6", "54Leave", "68", "139", "144", "150Return" ],
+  "district" : "Quận 5",
+  "id" : "Q5T027",
+  "latitude" : "10.7540483352092",
+  "longitude" : "106.655544662109",
+  "name" : "Dương Tử Giang",
+  "street" : "Hồng Bàng",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "399",
+  "bus" : [ "6", "17", "68", "139", "144", "150Leave" ],
+  "district" : "Quận 5",
+  "id" : "Q5T030",
+  "latitude" : "10.754139246213",
+  "longitude" : "106.656720822419",
+  "name" : "Thuận Kiều Plaza",
+  "street" : "Hồng Bàng",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "359",
+  "bus" : [ "6", "7", "8", "17", "56", "62", "68", "139", "150Leave" ],
+  "district" : "Quận 5",
+  "id" : "Q5T031",
+  "latitude" : "10.7545173805823",
+  "longitude" : "106.659236063916",
+  "name" : "Bệnh Viện Chợ Rẫy",
+  "street" : "Hồng Bàng",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "217",
+  "bus" : [ "6", "7", "10", "11", "17", "50", "56", "68", "139", "150Leave" ],
+  "district" : "Quận 5",
+  "id" : "Q5T032",
+  "latitude" : "10.755283534312",
+  "longitude" : "106.663197663318",
+  "name" : "Đại học Y Dược",
+  "street" : "Hồng Bàng",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "215",
+  "bus" : [ "6", "7", "11", "17", "50", "56", "68", "139", "150Leave" ],
+  "district" : "Quận 5",
+  "id" : "Q5T033",
+  "latitude" : "10.7555799831279",
+  "longitude" : "106.664709111414",
+  "name" : "Bệnh Viện Đại học Y Dược",
+  "street" : "Hồng Bàng",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "286",
+  "bus" : [ "54Return" ],
+  "district" : "Quận 5",
+  "id" : "Q5T034",
+  "latitude" : "10.7616913544162",
+  "longitude" : "106.676645781673",
+  "name" : "Thanh Tra Sở Giao Thông Vận Tải",
+  "street" : "Lê Hồng Phong",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "546",
+  "bus" : [ "7", "150Return" ],
+  "district" : "Quận 5",
+  "id" : "Q5T037",
+  "latitude" : "10.75734681008",
+  "longitude" : "106.666996546401",
+  "name" : "Trung Tâm Giáo Dục Thường Xuyên",
+  "street" : "Ngô Gia Tự",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "500",
+  "bus" : [ "7", "150Return" ],
+  "district" : "Quận 5",
+  "id" : "Q5T038",
+  "latitude" : "10.7588277175489",
+  "longitude" : "106.668054677857",
+  "name" : "Ngô Gia Tự",
+  "street" : "Ngô Gia Tự",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "138G-138F",
+  "bus" : [ "7", "59", "150Leave" ],
+  "district" : "Quận 5",
+  "id" : "Q5T061",
+  "latitude" : "10.7587045284593",
+  "longitude" : "106.669215392152",
+  "name" : "Trường Trần Khai Nguyên",
+  "street" : "Nguyễn Tri Phương",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "Đối diện 946",
+  "bus" : [ "54Return" ],
+  "district" : "Quận 5",
+  "id" : "Q5T070",
+  "latitude" : "10.7526978440537",
+  "longitude" : "106.653977774388",
+  "name" : "Nhà Thờ Cha Tam",
+  "street" : "Nguyễn Trãi",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "813",
+  "bus" : [ "54Return" ],
+  "district" : "Quận 5",
+  "id" : "Q5T071",
+  "latitude" : "10.7528757141795",
+  "longitude" : "106.658105682405",
+  "name" : "Châu Văn Liêm",
+  "street" : "Nguyễn Trãi",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "785",
+  "bus" : [ "1", "54Return" ],
+  "district" : "Quận 5",
+  "id" : "Q5T072",
+  "latitude" : "10.7528967962815",
+  "longitude" : "106.659401871572",
+  "name" : "Trường Trung Học Nguyễn Viết Xuân",
+  "street" : "Nguyễn Trãi",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "695",
+  "bus" : [ "1", "54Return" ],
+  "district" : "Quận 5",
+  "id" : "Q5T073",
+  "latitude" : "10.7530357984083",
+  "longitude" : "106.662074022303",
+  "name" : "Triệu Quang Phục",
+  "street" : "Nguyễn Trãi",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "639",
+  "bus" : [ "1", "54Return" ],
+  "district" : "Quận 5",
+  "id" : "Q5T074",
+  "latitude" : "10.7533250028854",
+  "longitude" : "106.663494263636",
+  "name" : "Đại Học Sư Phạm Thể Dục Thể Thao",
+  "street" : "Nguyễn Trãi",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "635B",
+  "bus" : [ "1", "54Return" ],
+  "district" : "Quận 5",
+  "id" : "Q5T075",
+  "latitude" : "10.7535977352633",
+  "longitude" : "106.664920539934",
+  "name" : "Siêu Thị Điện Máy Chợ Lớn",
+  "street" : "Nguyễn Trãi",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "593",
+  "bus" : [ "1", "54Return" ],
+  "district" : "Quận 5",
+  "id" : "Q5T076",
+  "latitude" : "10.7539554506762",
+  "longitude" : "106.666894622455",
+  "name" : "Đường Trần Xuân Hòa",
+  "street" : "Nguyễn Trãi",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "549",
+  "bus" : [ "1", "54Return" ],
+  "district" : "Quận 5",
+  "id" : "Q5T077",
+  "latitude" : "10.7542881322174",
+  "longitude" : "106.668569673642",
+  "name" : "Quận Hội, Quận 5",
+  "street" : "Nguyễn Trãi",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "493",
+  "bus" : [ "54Return", "68" ],
+  "district" : "Quận 5",
+  "id" : "Q5T078",
+  "latitude" : "10.7546135656696",
+  "longitude" : "106.670142789226",
+  "name" : "Hông Bệnh Viện Nguyễn Tri Phương",
+  "street" : "Nguyễn Trãi",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "309",
+  "bus" : [ "54Return" ],
+  "district" : "Quận 5",
+  "id" : "Q5T113",
+  "latitude" : "10.7559218892927",
+  "longitude" : "106.672850886949",
+  "name" : "Cây Xăng Dầu",
+  "street" : "Trần Phú",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "251B",
+  "bus" : [ "54Return" ],
+  "district" : "Quận 5",
+  "id" : "Q5T114",
+  "latitude" : "10.7584594660409",
+  "longitude" : "106.675284321078",
+  "name" : "An Đông",
+  "street" : "Trần Phú",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "27",
+  "bus" : [ "1", "5", "7", "10", "25", "47", "96", "144", "150Leave" ],
+  "district" : "Quận 6",
+  "id" : "Q6T032",
+  "latitude" : "10.750179980727",
+  "longitude" : "106.652559975742",
+  "name" : "Tháp Mười",
+  "street" : "Tháp Mười",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "13C-13D",
+  "bus" : [ "25", "54Return", "56" ],
+  "district" : "Quận 6",
+  "id" : "Q6T033",
+  "latitude" : "10.7502761631621",
+  "longitude" : "106.653049478887",
+  "name" : "Kim Biên",
+  "street" : "Tháp Mười",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "249B",
+  "bus" : [ "6", "12", "29", "30", "50", "52", "55", "56", "60-3", "60-4", "99", "104", "150Leave" ],
+  "district" : "Quận 9",
+  "id" : "Q9T196",
+  "latitude" : "10.8191720509156",
+  "longitude" : "106.758302833501",
+  "name" : "Xi Măng Hà Tiên - Trạm Thu Phí",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "185A",
+  "bus" : [ "6", "12", "29", "30", "50", "52", "55", "56", "60-3", "60-4", "99", "104", "150Leave" ],
+  "district" : "Quận 9",
+  "id" : "Q9T197",
+  "latitude" : "10.8259888233862",
+  "longitude" : "106.760725538794",
+  "name" : "Ngã 4 MK",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "354A",
+  "bus" : [ "6", "12", "29", "30", "50", "52", "55", "56", "60-3", "60-4", "104", "150Leave" ],
+  "district" : "Quận 9",
+  "id" : "Q9T198",
+  "latitude" : "10.8299859473576",
+  "longitude" : "106.762969206634",
+  "name" : "Trạm Xây Dựng",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "Trước Khu QLGTĐT Số 2",
+  "bus" : [ "6", "10", "12", "29", "30", "50", "52", "53", "55", "56", "60-3", "60-4", "104", "150Leave" ],
+  "district" : "Quận 9",
+  "id" : "Q9T199",
+  "latitude" : "10.8332486801773",
+  "longitude" : "106.764780368273",
+  "name" : "Khu QLGTDT Số 2",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "Kho 71",
+  "bus" : [ "104", "12", "150Leave", "30", "50", "52", "55", "60-3", "60-4" ],
+  "district" : "Quận 9",
+  "id" : "Q9T200",
+  "latitude" : "10.836227521773",
+  "longitude" : "106.766456078356",
+  "name" : "Bình Thái",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "1B",
+  "bus" : [ "12", "30", "50", "52", "55", "60-3", "60-4", "104", "150Leave" ],
+  "district" : "Quận 9",
+  "id" : "Q9T201",
+  "latitude" : "10.8405748781138",
+  "longitude" : "106.768917005127",
+  "name" : "UBND Quận 9",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "Bê Tông Hải Âu",
+  "bus" : [ "12", "30", "50", "52", "55", "60-3", "60-4", "104", "150Leave" ],
+  "district" : "Quận 9",
+  "id" : "Q9T202",
+  "latitude" : "10.843833542827",
+  "longitude" : "106.770787175363",
+  "name" : "Bê Tông Hải Âu",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "712",
+  "bus" : [ "12", "30", "50", "52", "55", "60-3", "60-4", "104", "150Leave" ],
+  "district" : "Quận 9",
+  "id" : "Q9T203",
+  "latitude" : "10.8471362963224",
+  "longitude" : "106.77283906526",
+  "name" : "Cây Xăng Ngọc Diệp",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "Công An Quận 9",
+  "bus" : [ "6", "8", "12", "30", "50", "60-3", "60-4", "76", "150Leave" ],
+  "district" : "Quận 9",
+  "id" : "Q9T204",
+  "latitude" : "10.849935211406",
+  "longitude" : "106.775123636788",
+  "name" : "Công An Quận 9",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "Kế 830 (Chợ Chiều)",
+  "bus" : [ "6", "8", "10", "12", "30", "50", "60-3", "60-4", "76", "150Leave" ],
+  "district" : "Quận 9",
+  "id" : "Q9T205",
+  "latitude" : "10.8535316141753",
+  "longitude" : "106.780466597147",
+  "name" : "Chợ Chiều",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "Khu Công Nghệ Cao",
+  "bus" : [ "6", "8", "12", "30", "50", "60-3", "60-4", "76", "150Leave" ],
+  "district" : "Quận 9",
+  "id" : "Q9T206",
+  "latitude" : "10.8584575805759",
+  "longitude" : "106.788818325468",
+  "name" : "Khu Công Nghệ Cao Quận 9",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "Tiệm Vàng Kim Lợi",
+  "bus" : [ "8", "12", "19", "30", "33", "50", "53", "60-3", "60-4", "76", "150Leave" ],
+  "district" : "Quận 9",
+  "id" : "Q9T207",
+  "latitude" : "10.8635151740266",
+  "longitude" : "106.797312881419",
+  "name" : "Trạm 2",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "Suối Tiên",
+  "bus" : [ "8", "12", "19", "30", "33", "50", "53", "60-3", "60-4", "76", "99", "150Leave" ],
+  "district" : "Quận 9",
+  "id" : "Q9T208",
+  "latitude" : "10.8666254185394",
+  "longitude" : "106.80251636691",
+  "name" : "Suối Tiên",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "Nghĩa Trang Liệt Sĩ Thành Phố HCM",
+  "bus" : [ "60-3", "60-4", "150Leave" ],
+  "district" : "Quận 9",
+  "id" : "Q9T209",
+  "latitude" : "10.8741865503876",
+  "longitude" : "106.809512909126",
+  "name" : "Nghĩa Trang Liệt Sĩ Thành Phố HCM",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "Công Ty TNHH Nam Hàn",
+  "bus" : [ "12", "60-3", "60-4", "150Leave" ],
+  "district" : "Quận 9",
+  "id" : "Q9T260",
+  "latitude" : "10.8787328831162",
+  "longitude" : "106.812811642885",
+  "name" : "Công Ty Nam Hàn",
+  "street" : "Quốc Lộ 1A",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "96",
+  "bus" : [ "8", "24", "51", "54Leave", "55", "95", "104", "146" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT002",
+  "latitude" : "10.8030871432439",
+  "longitude" : "106.707976545742",
+  "name" : "Nhà Thờ Hàng Xanh",
+  "street" : "Bạch Đằng",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "246",
+  "bus" : [ "8", "24", "51", "54Leave", "55", "95", "104", "146" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT003",
+  "latitude" : "10.8034026475397",
+  "longitude" : "106.703930433447",
+  "name" : "Chùa Bồ Đề",
+  "street" : "Bạch Đằng",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "288",
+  "bus" : [ "8", "24", "51", "54Leave", "55", "95", "104", "146" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT004",
+  "latitude" : "10.8037023374669",
+  "longitude" : "106.701045717644",
+  "name" : "Tòa Án Nhân Dân Quận Bình Thạnh",
+  "street" : "Bạch Đằng",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "368",
+  "bus" : [ "8", "24", "51", "54Leave", "55", "95", "104", "146" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT005",
+  "latitude" : "10.8030225913439",
+  "longitude" : "106.699344526573",
+  "name" : "Chợ Bà Chiểu",
+  "street" : "Bạch Đằng",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "473C",
+  "bus" : [ "8", "24", "51", "54Return", "55", "95", "104", "146" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT006",
+  "latitude" : "10.8030700190782",
+  "longitude" : "106.699512164644",
+  "name" : "Chợ Bà Chiểu",
+  "street" : "Bạch Đằng",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "449",
+  "bus" : [ "8", "24", "51", "54Return", "55", "95", "104", "146" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT007",
+  "latitude" : "10.8037181442632",
+  "longitude" : "106.701132218882",
+  "name" : "Tòa Án Nhân Dân Quận Bình Thạnh",
+  "street" : "Bạch Đằng",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "375",
+  "bus" : [ "8", "24", "51", "54Return", "55", "95", "104", "146" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT008",
+  "latitude" : "10.803377612141",
+  "longitude" : "106.703999500316",
+  "name" : "Chùa Bồ Đề",
+  "street" : "Bạch Đằng",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "235",
+  "bus" : [ "8", "24", "51", "54Return", "55", "95", "104", "146" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT009",
+  "latitude" : "10.8031648576291",
+  "longitude" : "106.706700484785",
+  "name" : "Nhà Thờ Hàng Xanh",
+  "street" : "Bạch Đằng",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "39",
+  "bus" : [ "5", "8", "24", "42", "43", "51", "54Return", "55", "60-3", "60-4", "61-6", "95", "104", "146" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT010",
+  "latitude" : "10.8028961221765",
+  "longitude" : "106.710509892141",
+  "name" : "Ngã 3 Xô Viết Nghệ Tĩnh",
+  "street" : "Bạch Đằng",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "78/3",
+  "bus" : [ "5", "8", "14", "19", "26", "42", "43", "45", "54Return", "60-4", "61-6", "91", "93", "95", "146" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT040",
+  "latitude" : "10.8166725252151",
+  "longitude" : "106.711249511292",
+  "name" : "Bến Xe Miền Đông",
+  "street" : "Đinh Bộ Lĩnh",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "291-293",
+  "bus" : [ "5", "8", "24", "42", "43", "51", "54Leave", "60-3", "60-4", "61-6", "93", "95", "146" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT041",
+  "latitude" : "10.8126278035226",
+  "longitude" : "106.709182198701",
+  "name" : "Ngã Tư Nguyễn Xí",
+  "street" : "Đinh Bộ Lĩnh",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "183",
+  "bus" : [ "5", "8", "24", "42", "43", "51", "54Leave", "60-3", "60-4", "61-6", "93", "95", "146" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT042",
+  "latitude" : "10.8098100962725",
+  "longitude" : "106.709119166787",
+  "name" : "Ngã Tư Chu Văn An",
+  "street" : "Đinh Bộ Lĩnh",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "85",
+  "bus" : [ "5", "8", "24", "42", "43", "51", "54Leave", "60-3", "60-4", "61-6", "93", "95", "146" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT043",
+  "latitude" : "10.8069060793526",
+  "longitude" : "106.709383364375",
+  "name" : "Cầu Đinh Bộ Lĩnh",
+  "street" : "Đinh Bộ Lĩnh",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "17",
+  "bus" : [ "5", "8", "24", "42", "43", "51", "54Leave", "60-3", "60-4", "61-6", "93", "95", "146" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT044",
+  "latitude" : "10.8044229205048",
+  "longitude" : "106.709426950269",
+  "name" : "Trạm Xăng Dầu",
+  "street" : "Đinh Bộ Lĩnh",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "96",
+  "bus" : [ "18", "31", "36", "54Return" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT045",
+  "latitude" : "10.7957554221008",
+  "longitude" : "106.696137275157",
+  "name" : "Cầu Bông",
+  "street" : "Đinh Tiên Hoàng",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "114",
+  "bus" : [ "31", "36", "54Return" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT046",
+  "latitude" : "10.7980858390973",
+  "longitude" : "106.69628613776",
+  "name" : "Bệnh Viện Bình Thạnh",
+  "street" : "Đinh Tiên Hoàng",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "Đối diện 129",
+  "bus" : [ "18", "31", "36", "54Leave" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT047",
+  "latitude" : "10.8014694535085",
+  "longitude" : "106.696474562941",
+  "name" : "Lăng Ông Bà Chiểu",
+  "street" : "Đinh Tiên Hoàng",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "129",
+  "bus" : [ "18", "31", "36", "54Return" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT048",
+  "latitude" : "10.8013890955496",
+  "longitude" : "106.696487303433",
+  "name" : "Lăng Ông Bà Chiểu",
+  "street" : "Đinh Tiên Hoàng",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "95",
+  "bus" : [ "18", "31", "36", "54Leave" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT049",
+  "latitude" : "10.798623320784",
+  "longitude" : "106.696303572118",
+  "name" : "Bệnh Viện Bình Thạnh",
+  "street" : "Đinh Tiên Hoàng",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "51",
+  "bus" : [ "18", "31", "36", "54Leave" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT050",
+  "latitude" : "10.7946165561048",
+  "longitude" : "106.696053456128",
+  "name" : "Cầu Bông",
+  "street" : "Đinh Tiên Hoàng",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "45",
+  "bus" : [ "45", "50", "91", "93", "150Return" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT051",
+  "latitude" : "10.7942924784382",
+  "longitude" : "106.701182510309",
+  "name" : "Cầu Điện Biên Phủ",
+  "street" : "Điện Biên Phủ",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "119",
+  "bus" : [ "45", "50", "93", "150Return" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT052",
+  "latitude" : "10.7976609895531",
+  "longitude" : "106.704292531667",
+  "name" : "Trạm Điện Nguyễn Cửu Vân",
+  "street" : "Điện Biên Phủ",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "205",
+  "bus" : [ "45", "50", "91", "93", "150Return" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT053",
+  "latitude" : "10.7996857664365",
+  "longitude" : "106.706361185373",
+  "name" : "Đại Học Hồng Bàng",
+  "street" : "Điện Biên Phủ",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "10b",
+  "bus" : [ "45", "50", "150Return" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT054",
+  "latitude" : "10.8013792142649",
+  "longitude" : "106.709739427622",
+  "name" : "Vòng Xoay Hàng Xanh",
+  "street" : "Điện Biên Phủ",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "419",
+  "bus" : [ "6", "12", "14", "19", "43", "44", "45", "50", "52", "55", "60-4", "104", "150Return" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT055",
+  "latitude" : "10.8016044799719",
+  "longitude" : "106.712813909705",
+  "name" : "Cây Xăng Dầu",
+  "street" : "Điện Biên Phủ",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "459",
+  "bus" : [ "6", "12", "14", "19", "45", "50", "52", "55", "60-4", "104", "150Return" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT056",
+  "latitude" : "10.8014964566346",
+  "longitude" : "106.713809009247",
+  "name" : "Cửa Nhôm Bá Thịnh",
+  "street" : "Điện Biên Phủ",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "483",
+  "bus" : [ "6", "12", "19", "43", "44", "45", "50", "52", "55", "60-4", "104", "150Return" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT057",
+  "latitude" : "10.801138135424",
+  "longitude" : "106.714825566457",
+  "name" : "Trường Hutech",
+  "street" : "Điện Biên Phủ",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "152/72c(559)",
+  "bus" : [ "6", "10", "12", "43", "44", "50", "52", "55", "60-4", "104", "150Return" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT058",
+  "latitude" : "10.8001316870857",
+  "longitude" : "106.717210050281",
+  "name" : "Khu Du Lịch Văn Thánh",
+  "street" : "Điện Biên Phủ",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "24(597)",
+  "bus" : [ "6", "12", "43", "50", "52", "55", "60-4", "104", "150Return" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT059",
+  "latitude" : "10.7988775655386",
+  "longitude" : "106.719489927938",
+  "name" : "Cầu Sài Gòn",
+  "street" : "Điện Biên Phủ",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "658",
+  "bus" : [ "6", "12", "43", "50", "52", "55", "60-3", "60-4", "104", "150Leave" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT060",
+  "latitude" : "10.798498164708",
+  "longitude" : "106.719404097246",
+  "name" : "Cầu Sài Gòn",
+  "street" : "Điện Biên Phủ",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "600",
+  "bus" : [ "6", "10", "12", "43", "50", "52", "55", "60-3", "60-4", "104", "150Leave" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT061",
+  "latitude" : "10.7997233049107",
+  "longitude" : "106.717151041676",
+  "name" : "Khu Du lịch Văn Thánh",
+  "street" : "Điện Biên Phủ",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "500-502",
+  "bus" : [ "6", "12", "43", "50", "52", "55", "60-3", "60-4", "104", "150Leave" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT062",
+  "latitude" : "10.8008535839706",
+  "longitude" : "106.714087958968",
+  "name" : "Trường Hutech",
+  "street" : "Điện Biên Phủ",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "442",
+  "bus" : [ "45", "50", "93", "150Leave" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT063",
+  "latitude" : "10.8010294592798",
+  "longitude" : "106.709834646042",
+  "name" : "Vòng Xoay Hàng Xanh",
+  "street" : "Điện Biên Phủ",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "330",
+  "bus" : [ "45", "50", "93", "150Leave" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT064",
+  "latitude" : "10.7995942093045",
+  "longitude" : "106.706797714887",
+  "name" : "Đại Học Hồng Bàng",
+  "street" : "Điện Biên Phủ",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "174",
+  "bus" : [ "45", "50", "93", "150Leave" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT065",
+  "latitude" : "10.7973547031696",
+  "longitude" : "106.704449440895",
+  "name" : "Trạm Điện Nguyễn Cửu Vân",
+  "street" : "Điện Biên Phủ",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "84",
+  "bus" : [ "45", "50", "91", "93", "150Leave" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT066",
+  "latitude" : "10.7940085803962",
+  "longitude" : "106.701245542213",
+  "name" : "Cầu Điện Biên Phủ",
+  "street" : "Điện Biên Phủ",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "Đối diện 40",
+  "bus" : [ "54Return" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT067",
+  "latitude" : "10.805533426819",
+  "longitude" : "106.695837538291",
+  "name" : "Ngã 3 Nơ Trang Long",
+  "street" : "Nguyễn Huy Lượng",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "19",
+  "bus" : [ "54Leave" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT068",
+  "latitude" : "10.8057876717557",
+  "longitude" : "106.696965407185",
+  "name" : "Ngã 3 Lê Quang Định",
+  "street" : "Nguyễn Huy Lượng",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "1A",
+  "bus" : [ "54Return", "146" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT089",
+  "latitude" : "10.8030818787251",
+  "longitude" : "106.698425199449",
+  "name" : "Trường Trung Học Nguyễn Đình Chiểu",
+  "street" : "Lê Quang Định",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "22-24",
+  "bus" : [ "24", "54Leave", "146" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT099",
+  "latitude" : "10.8031780382287",
+  "longitude" : "106.698419835017",
+  "name" : "Trường Trung Học Nguyễn Đình Chiểu",
+  "street" : "Lê Quang Định",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "2",
+  "bus" : [ "18", "31", "36", "54Return", "64", "95" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT100",
+  "latitude" : "10.8034810241306",
+  "longitude" : "106.694947044892",
+  "name" : "Bệnh Viện Gia Định",
+  "street" : "Nơ Trang Long",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "1",
+  "bus" : [ "18", "31", "36", "54Leave", "64", "95" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT115",
+  "latitude" : "10.8035646772792",
+  "longitude" : "106.694934974958",
+  "name" : "Bệnh Viện Gia Định",
+  "street" : "Nơ Trang Long",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "6-8",
+  "bus" : [ "8", "18", "31", "36", "51", "54Return", "55", "95", "104" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT118",
+  "latitude" : "10.802719613427",
+  "longitude" : "106.695763777559",
+  "name" : "UBND Quận Bình Thạnh",
+  "street" : "Phan Đăng Lưu",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "504",
+  "bus" : [ "5", "8", "19", "24", "42", "44", "51", "54Return", "60-4", "61-6", "93", "95", "146" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT125",
+  "latitude" : "10.8091804205414",
+  "longitude" : "106.712034727982",
+  "name" : "Đài Liệt Sĩ",
+  "street" : "Xô Viết Nghệ Tĩnh",
+  "type" : "Ô sơn"
+}, {
+  "address" : "338",
+  "bus" : [ "5", "8", "14", "19", "24", "42", "43", "44", "45", "51", "54Return", "60-4", "61-6", "91", "93", "95", "146" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT126",
+  "latitude" : "10.8047502769448",
+  "longitude" : "106.711486886793",
+  "name" : "Cầu Sơn",
+  "street" : "Xô Viết Nghệ Tĩnh",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "222/13A",
+  "bus" : [ "5", "8", "19", "24", "26", "40", "42", "51", "54Return", "60-4", "61-6", "64", "93", "95", "146" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT138",
+  "latitude" : "10.8107914882435",
+  "longitude" : "106.71241962498",
+  "name" : "Co.op Mart",
+  "street" : "Quốc Lộ 13",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "126-128",
+  "bus" : [ "5", "8", "24", "26", "54Return", "64", "95", "146" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT140",
+  "latitude" : "10.812319556465",
+  "longitude" : "106.712604697405",
+  "name" : "Bến Xe Miền Đông",
+  "street" : "Quốc Lộ 13",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "152",
+  "bus" : [ "5", "8", "40", "42", "43", "45", "51", "54Return", "60-4", "61-6", "64", "91", "93", "146" ],
+  "district" : "Quận Bình Thạnh",
+  "id" : "QBTHT141",
+  "latitude" : "10.8138528824381",
+  "longitude" : "106.71278909927",
+  "name" : "Bến Xe Miền Đông",
+  "street" : "Quốc Lộ 13",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "Đối diện Khu Công Nghệ Cao",
+  "bus" : [ "6", "8", "12", "30", "50", "52", "60-3", "60-4", "76", "150Return" ],
+  "district" : "Quận Thủ Đức",
+  "id" : "QTDT081",
+  "latitude" : "10.8586492187226",
+  "longitude" : "106.788666780659",
+  "name" : "Khu Công Nghệ Cao Quận 9",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "Công Ty Cocacola",
+  "bus" : [ "6", "8", "12", "30", "50", "52", "60-3", "60-4", "76", "150Return" ],
+  "district" : "Quận Thủ Đức",
+  "id" : "QTDT082",
+  "latitude" : "10.8564259592625",
+  "longitude" : "106.784907664724",
+  "name" : "Công Ty Cocacola",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "Đối diện Co.op Mart",
+  "bus" : [ "10", "12", "30", "50", "52", "55", "60-3", "104", "150Return" ],
+  "district" : "Quận Thủ Đức",
+  "id" : "QTDT083",
+  "latitude" : "10.8482775970636",
+  "longitude" : "106.773090522354",
+  "name" : "Ngã Tư Thủ Đức",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "Đối diện Betong Hải Âu",
+  "bus" : [ "12", "30", "50", "52", "55", "60-3", "60-4", "104", "150Return" ],
+  "district" : "Quận Thủ Đức",
+  "id" : "QTDT084",
+  "latitude" : "10.8437696594869",
+  "longitude" : "106.770457934205",
+  "name" : "Betong Hải Âu",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "126",
+  "bus" : [ "12", "30", "50", "52", "55", "60-3", "60-4", "104", "150Return" ],
+  "district" : "Quận Thủ Đức",
+  "id" : "QTDT085",
+  "latitude" : "10.8407138384737",
+  "longitude" : "106.768730591599",
+  "name" : "126",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "Đối diện 592C",
+  "bus" : [ "6", "10", "12", "29", "30", "50", "52", "53", "55", "56", "60-4", "104", "150Return" ],
+  "district" : "Quận Thủ Đức",
+  "id" : "QTDT086",
+  "latitude" : "10.8349360122947",
+  "longitude" : "106.765471707646",
+  "name" : "Bình Thái",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "Công Ty Truyền Tải Điện 4",
+  "bus" : [ "6", "12", "29", "30", "50", "52", "55", "56", "60-4", "104", "150Return" ],
+  "district" : "Quận Thủ Đức",
+  "id" : "QTDT087",
+  "latitude" : "10.8311714401487",
+  "longitude" : "106.763349409761",
+  "name" : "Công Ty Truyền Tải Điện 4",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "Nhà Máy Thép Thủ Đức",
+  "bus" : [ "6", "12", "29", "30", "50", "52", "55", "99", "104", "150Return" ],
+  "district" : "Quận Thủ Đức",
+  "id" : "QTDT088",
+  "latitude" : "10.8253525966419",
+  "longitude" : "106.760027493897",
+  "name" : "Nhà Máy Thép Thủ Đức",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "Xi Măng Hà Tiên 1",
+  "bus" : [ "6", "12", "29", "30", "50", "52", "55", "56", "60-4", "99", "104", "150Return" ],
+  "district" : "Quận Thủ Đức",
+  "id" : "QTDT089",
+  "latitude" : "10.8203016029158",
+  "longitude" : "106.758183475199",
+  "name" : "Xi Măng Hà Tiên",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Nhà chờ"
+}, {
+  "address" : "Nhà Máy Tiến Thành",
+  "bus" : [ "8", "12", "19", "30", "33", "50", "53", "60-3", "60-4", "76", "99", "150Return" ],
+  "district" : "Quận Thủ Đức",
+  "id" : "QTDT186",
+  "latitude" : "10.8708228513047",
+  "longitude" : "106.806781749796",
+  "name" : "621-Ngã 3 Lâm Viên",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "Trường Giáo Dục Quốc Phòng",
+  "bus" : [ "8", "10", "12", "19", "30", "33", "50", "60-3", "60-4", "76", "99", "150Return" ],
+  "district" : "Quận Thủ Đức",
+  "id" : "QTDT187",
+  "latitude" : "10.8682157615382",
+  "longitude" : "106.804367761682",
+  "name" : "Trường Giáo Dục Quốc Phòng",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Trụ chờ"
+}, {
+  "address" : "9/29",
+  "bus" : [ "8", "12", "19", "30", "33", "50", "60-3", "60-4", "76", "99", "150Return" ],
+  "district" : "Quận Thủ Đức",
+  "id" : "QTDT188",
+  "latitude" : "10.8660327448307",
+  "longitude" : "106.801149781416",
+  "name" : "Suối Tiên",
+  "street" : "Xa Lộ Hà Nội",
+  "type" : "Trụ chờ"
+} ]

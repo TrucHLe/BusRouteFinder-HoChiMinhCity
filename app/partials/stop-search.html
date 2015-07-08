@@ -1,0 +1,145 @@
+
+<!-- Header ------------------------------------------------------------------------------------->
+    <header>
+        <div id="headerContainer">
+            
+            <h1>Buýt Sài Gòn</h1>
+    
+                    
+            <!--Search Departure Stop -->
+            <div>
+                <div>
+                    <div class="inputLabel"><strong>Trạm Đi:</strong></div>
+                </div>
+            
+                <div>
+                    <div class="inputText" angucomplete-alt
+                    placeholder="Bến Xe Chợ Lớn" 
+                    id="departureInput" 
+                    maxLength="50"
+                    selected-object="selectedDeparture"
+                    local-data="allStops"
+                    search-fields="name,street"
+                    title-field="type,name"
+                    description-field="address,street,district"
+                    minlength="1"
+                    input-class="form-control form-control-small" 
+                    match-class="highlight"
+                    text-searching="Đợi tí nhé..."
+                    text-no-results="Không tìm thấy trạm. Xin nhập từ khoá khác :)"></div>
+                </div>
+            </div>
+        
+        
+            
+            <!--Search Arrival Stop -->
+            <div>
+                <div>
+                    <div class="inputLabel"><strong>Trạm Đến:</strong></div>
+                </div>
+            
+                <div>
+                    <div class="inputText" angucomplete-alt
+                    placeholder="Ngã 3 Tân Vạn" 
+                    id="arrivalInput" 
+                    maxLength="50"
+                    selected-object="selectedArrival"
+                    local-data="allStops"
+                    search-fields="name,street"
+                    title-field="type,name"
+                    description-field="address,street,district"
+                    minlength="1"
+                    input-class="form-control form-control-small" 
+                    match-class="highlight"
+                    text-searching="Đợi tí nhé..."
+                    text-no-results="Không tìm thấy trạm. Xin nhập từ khoá khác :)"></div>
+                </div>
+            </div>
+        
+        
+            
+            <!-- Search Button -->
+            <div>
+                <button ng-click="findBusAndMarkStops()" class="btn btn-default" id="searchButton">
+                    <strong>Tìm Buýt!</strong>
+                </button>
+            </div>            
+            
+        </div>
+    </header>
+
+      
+
+<!-- Selected Stops and Resulting Routes -------------------------------------------------------->
+    <article id="resultContainer">
+        
+        <!-- Selected Stops -->
+        <section>
+            
+            <div ng-show="selectedDeparture" class="thumbnail" id="selectedStopsThumbnail">
+                <div id="thumbnailText">
+                    <!-- Display Departure Stop -->
+                    <div ng-show="selectedDeparture">
+                        <strong>{{selectedDeparture.originalObject.type}} {{selectedDeparture.originalObject.name}}</strong> 
+                        <p>{{selectedDeparture.originalObject.address}}, {{selectedDeparture.originalObject.street}}, {{selectedDeparture.originalObject.district}}</p>
+                    </div>
+        
+                    <!-- Display Cute Arrow -->
+                    <div>
+                        <span class="glyphicon glyphicon-arrow-down" id="arrowGlyphicon" aria-hidden="true"></span>
+                    </div>
+                
+                
+                    <!-- Display Arrival Stop -->
+                    <div ng-show="selectedArrival">
+                        <strong>{{selectedArrival.originalObject.type}} {{selectedArrival.originalObject.name}}</strong> 
+                        <p>{{selectedArrival.originalObject.address}}, {{selectedArrival.originalObject.street}}, {{selectedArrival.originalObject.district}}</p>
+                    </div>
+                </div>
+            </div>
+            
+                    
+        </section>
+        
+        
+        <!-- Construction -->
+<!--        <div ng-repeat="stuff in thing">{{stuff}}</div>-->
+        <div>{{thing}}</div>
+        <!-- Construction end -->
+        
+        
+        <footer> 
+            <div id="resultsContainer">
+      
+                <button ng-repeat="instructions in results"
+                        ng-click="showRoute(instructions)"
+                        class="thumbnail" id="resultButton">
+                    <ul id="resultText">
+                        <li ng-repeat="instruction in instructions">
+                            {{instruction.directive}} <strong>{{instruction.means | busRouteFilter}}</strong>
+                            <p><em>{{instruction.address}}</em></p>
+                        </li>
+                    </ul>
+                    
+                </button>
+            
+            </div>
+        </footer>
+    
+    </article>
+
+
+
+<!-- Google Map ------------------------------------------------------------------------>
+    <article id="mapContainer">
+        <map center="{{mapCenter.latitude}}, {{mapCenter.longitude}}" zoom="12" id="mapCanvas">
+            <marker ng-repeat="marker in stopsCoordinates" position="{{marker.latitude}}, {{marker.longitude}}"></marker>
+            <shape id="polyline"
+                   name="polyline"
+                   geodesic="true"
+                   stroke-color="#2C5D3F"
+                   stroke-opacity="0.5"
+                   stroke-weight="5"
+                   path="{{route}}"></shape>
+        </map>
+    </article>
